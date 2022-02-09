@@ -12,7 +12,7 @@ Did the government fix the problem for the draft lotteries in 1970, 71, and 72?
 
 Usage
 --------
-Jupiter Notebook Classifier_Logistic_Regression_Titanic.ipynb.ipynb
+Jupiter Notebook How_could_your_date_of_birth_affect_your_life.ipynb
 
 Description
 --------
